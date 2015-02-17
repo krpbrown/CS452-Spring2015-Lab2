@@ -1,4 +1,6 @@
 Kristian Brown
 2/17/15
 
-description
+Lab 2: I made a variably colored pentagon which moves left, right, down, and up using asdw respectively.
+The 1 key can be used to re-center the pentagon.
+
